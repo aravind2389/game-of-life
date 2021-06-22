@@ -8,7 +8,7 @@
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
-            color: yellow;
+            color: red;
             font-family: sans-serif;
         }
 
@@ -23,10 +23,10 @@
         }
 
         .footer {
-            color: blue;
+            color: yellow;
             font-size: medium;
             text-align: right;
-            background-color: yellow;
+            background-color: red;
             margin-top: 100px;
             border-top: thin solid yellow;
             padding: 2px;
