@@ -26,7 +26,7 @@
             color: blue;
             font-size: medium;
             text-align: right;
-            background-color: red;
+            background-color: yellow;
             margin-top: 100px;
             border-top: thin solid yellow;
             padding: 2px;
